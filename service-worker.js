@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.568b367c8ac68e4ff74a07b948a184be.js"
+  "/precache-manifest.5a1c226bd056ec74d7b8c96ca6aaa847.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pc4-champs-frontend"});
